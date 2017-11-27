@@ -1,0 +1,826 @@
+bias	clickbait	conspiracy	fake	hate	junksci	political	reliable	rumor	satire	state	unreliable	notes
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	1	publishes articles denying climate change
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	0	0	1	links to MSM sources and unreliable sources
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	links to natural news, blacklist news, some conspiracy sites
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	"The ""one"" bank"
+1	0	0	0	0	0	0	0	0	0	0	1	The news arm of Media Research Center (a conservative org that is frequently criticized for use of selective evidence) 
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	1	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	Not a personal website, owned by Project Maui, Inc. Makes unverifiable extraordinary claims, seems to be advertising for lawyers with a history of legal reprimands.
+1	0	0	0	0	0	0	0	0	0	0	0	anarcho-capitalist blog
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	0	0	0	0	0	0	0	doesn't seem to be updating anymore
+0	0	1	0	0	0	0	0	0	0	0	0	weather control
+0	0	1	0	1	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	domain for sale
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	1	0	0	0	0	0	commentary on current events/news
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	1	0	1	0	0	0	0	0	0	0	"references to ""white genocide"" and ""race mixing"""
+0	0	1	1	0	0	0	0	0	0	0	0	Much of the site is focused on anti-GMO conspiracies, with political conspiracies coming in as a close second. There are some apparent attempts to source some wild claims, but the use of unstable URLs-- intentionally or otherwise-- thwarts this.
+1	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	global warming denial
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	0	0	1	links to real news stories, but also some questionable/decontextualized images
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	http://offgridsurvival.com/shadowgovernmentwars/
+1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	1	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	1	
+0	1	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	mostly linking/commenting on both news and other sources.
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	website down
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	0
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	1	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	1	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	false quotes regarding banking, heavily promotes businesses advertising on site/ buying of precious metals
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://alternativemediasyndicate.com/2017/02/02/police-raid-standing-rock-camp-destroy-tipis-burning-remains/
+0	0	0	0	0	0	1	1	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	domain for sale
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	1	1	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	sites both reliable/not reliable sources, mix of opinion/'fact'
+1	0	0	0	0	0	0	0	1	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	0	0	0	0	0	0	1	0	0	1	
+0	1	0	0	0	0	0	0	1	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	site is biased but very open about bias and source
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	0	0	0	0	0	0	0	1	0	1	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	1	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	twitter account deleted?
+1	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	1	0	0	0	0	0	circulates generally reliable information from a p.o.v. but not at the expense of informational integrity 
+0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	1	0	0	0	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	1	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	1	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	anon submissions
+1	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	1	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	1	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	1	seems like a combination of totally fake and unreliable reports of 'real' news
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	1	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	http://www.bbc.com/news/world-us-canada-35037943 ; 
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	0	0	0	0	"minimal factual reporting despite being ""news'"
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	1	0	0	0	0	
+1	0	0	1	0	0	0	0	1	0	0	0	https://www.nytimes.com/2017/01/18/us/fake-news-hillary-clinton-cameron-harris.html?_r=1&mtrref=t.co&gwh=1CC9755BA757D7782D8A46A6F6FBF22E&gwt=pay
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	from what I gather, like the opposite of Jacobin (paleoconservative) 
+1	0	0	0	0	0	0	0	0	0	0	0	loaded language etc.
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	0	0	1	basically an RT video channel
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	1	0	0	0	0	1	0	0	0	0	0	
+0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	1	This website is a weird mix of outright fake news and some stuff that looks more reliable. 
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	0	0	0	0	http://conservativehq.com/article/24945-f-bomb-opposition-president-trump
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	0	incorrect/uncited data, citing other sources labeled as bias
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	links to other borderline fake, but mostly just propagandistic websites
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	1	0	0	0	0	The authors on this website are pretty reliable and the articles appear well researched
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	1	This site is pretty explicit about it's p.o.v. and is coming from a political perspective but doesn't fit under how we are defining 'bias'
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	explicit POV - legit authors
+0	0	0	0	0	0	1	0	0	0	0	0	explicit POV - legit authors
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	1	0	0	0	0	0	0	0	0	1	copy-pasted commentary from various news & 'news' sources
+0	0	0	0	0	0	0	0	0	1	0	0	redirects to http://www.cap-news.com/
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	1	0	0	0	0	0	a weird mix of info. they link to extremely biased sites (as sources) and more reliable/balanced sources
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	1	0	0	0	0	0	0	0	pretty well known neo-nazi site
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	1	0	0	0	australian tabloid mag
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	0	1	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	0	0	0	Science doesn't mean what they think it means
+1	0	0	0	0	0	1	0	0	0	0	0	editorial board as stated on about us seem to be legitimate academics, and originally authored content byline are academics, although not able to find a clear link between edu pages and these authors' work on this website. Many 3rd party articles are linked, sources provided. These articles are aggregated from other more clearly biased sites i.e. world socialist web site (wswg.org), rt.com, sputniknews.com.
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	redirects to dcposts.com 
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	German language site
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	self-labled: https://diversitychronicle.wordpress.com/disclaimer/ 
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+1	0	0	0	1	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	1	sites some problematic sources, like CNS news
+0	0	0	0	0	0	1	0	0	0	0	0	this site claims junksci, but I read over a dozen articles w/o finding any. probably should re-check soon https://mediabiasfactcheck.com/ecowatch/
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	About Me notes that it's not fake/satirical news
+0	0	0	0	0	0	0	0	0	1	0	0	About Me notes that it's not fake/satirical news
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	No authors, no contact, just copy/pasted from other questionable sites
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	1	0	0	1	0	0	0	0	0	Traffics in religious conspiracy theories and poorly sourced pro-Trump propaganda
+1	1	0	0	0	0	1	0	0	0	0	0	Not sure about this one. zany religious prophecy/not really conspiracy
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	0	well-known tabloid
+1	1	0	1	0	0	0	0	0	0	0	0	vacillates between outright fake and misleading stories
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	fiction disclaimer on bottom of home screen 
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	A single-issue blog, it hasn't been updated since August 2016. It talks about guns, has lots of dead links, and has trouble distinguishing between legitimate and illegitimate sources.
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	1	0	0	I concur: http://mashable.com/2016/10/03/fake-news-story-man-marries-granddaughter/#QvpAzP.e8Oqb 
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	site contains satire disclaimer
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	legit source coming from a political perspective
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	site contains satire disclaimer 
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	0	1	0	0	0	0	0	0	
+1	0	0	0	1	0	0	0	0	0	0	0	Part of David Horowitz' Freedom Center
+0	0	0	0	0	0	1	1	0	0	0	0	website contains some satire 
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	this website is tricky (in terms of writers using some interesting frames/language). def could use a second analysis.
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	1	0	0	0	0	0	0	0	"references to ""Jew World Order"""
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	site contains satire disclaimer 
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	0	0	0	0	http://www.sourcewatch.org/index.php/Heartland_Institute
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	1	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	1	
+1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+1	0	0	0	0	0	1	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	https://immediatesafety.org/dnc-to-hand-debbie-wasserman-schultz-over-to-isis-for-beheadding/
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	9/11 was an inside job
+0	0	1	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	1	1	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	mostly turned back into car website
+0	0	0	0	0	0	1	0	0	0	0	0	left wing discussion site
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	1	
+0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	http://www.knowledgeoftoday.org/2012/02/illuminati-secret-hidden-from-masses.html
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	1	0	0	0	0	0	0	0	0	http://www.learnprogress.org/white-house-website-sell-jewelry/
+1	0	0	0	0	0	1	0	0	0	0	1	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	1	0	0	0	http://loanpride.com/obama-family-divorce-attorney-quit-smoking-tips/?utm_source=revcontent&utm_medium=56198&utm_term=conservative%20news&utm_content=1770992&utm_campaign=234718&utm_widget_id=56198
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	1	0	0	0	0	0	0	0	0	0	1	
+1	0	0	1	0	0	0	0	1	0	0	0	"""god/emperor"" category for trump"
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	1	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	1	
+0	0	0	0	0	0	0	0	1	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	legit source form a political perspective
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	stories seem to originate from real news, but are somewhat clickbait-y and sources are not cited
+1	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	found linked from iwanttoexplore.com
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	commentary on finance, economics, politics and power
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/groups
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	1	0	0	0	0	0	0	0	0	http://www.neonnettle.com/features/732-pizzagate-worldwide-pedophile-ring-bust-begins-media-remains-silent-
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	1	0	0	0	0	0	"contains statement that site authors are ""independent, but not non-partisan"" (anti-war (Ukraine))"
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.newsbiscuit.com/about/disclaimer/ 
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	1	0	0	0	0	0	http://www.newscorpse.com/ncWP/?p=34163
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	redirects to http://politicops.com/ (12/2)
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	site contains satire disclaimer
+0	0	0	0	0	0	0	0	0	1	0	0	Tagline: The news they don't want you to hear. Because it isn't true.
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	1	0	0	1	
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	1	0	0	0	0	0	0	0	white supremacist think tank
+0	0	0	0	0	0	0	1	0	0	0	0	I read through several articles and the sources cited, and appears ok (maybe sometimes a little sensational... so if anyone has specific knowledge of this site and/or good examples of problems, feel free to link them here)
+0	1	0	0	0	0	0	0	0	1	0	0	Entertainment website 
+0	0	0	0	0	0	1	1	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	https://www.splcenter.org/fighting-hate/extremist-files/group/oath-keepers
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	"vacillates between some pieces that are ""bias"" and others that are ""reliable"""
+1	1	0	0	0	0	0	0	0	0	0	1	
+1	1	0	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	1	1	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	https://mediabiasfactcheck.com/the-patriot-post/ ; https://patriotpost.us/posts/48002 ; https://patriotpost.us/alexander/48000
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	ex: http://www.paulcraigroberts.org/2016/12/10/has-liberty-departed-from-america-paul-craig-roberts/ 
+1	0	0	0	0	0	1	0	0	0	0	0	https://mediabiasfactcheck.com/pj-media/ ;  https://pjmedia.com/about-us (ground zero mosque, 'doctored climate change data')
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	ex: vaccines are a way for the CIA to spy on us
+1	1	1	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	1	0	0	redirects to Newslo
+0	0	0	1	0	0	0	0	0	1	0	0	redirects to Newslo
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	1	
+1	1	0	0	0	0	0	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	1	0	0	0	0	0	1	0	0	0	
+1	0	1	0	0	0	0	0	1	0	0	0	redirects to pravda.ru
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	1	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	1	redirects to presstv.com
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	https://mediabiasfactcheck.com/progressives-today/
+1	0	0	0	0	0	1	0	0	0	0	1	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	1	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	1	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	fake news generator for pranking friends
+1	1	0	1	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	1	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	1	http://www.politifact.com/personalities/resistance-report/
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	1	0	0	1	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	owned by RT
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	1	My analysis is similar to this site: https://mediabiasfactcheck.com/shareblue/
+0	0	1	0	0	1	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	1	0	0	0	0	0	0	1	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	1	0	1	0	0	0	0	0	0	0	0	http://success-street.com/2017/01/18/wow-obama-orders-life-sized-bronze-statute-permanently-installed-white-house/
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	1	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	1	0	0	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	1	ex: http://theantimedia.org/cdc-admits-ebola-airborne/
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	1	1	0	0	1	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	1	0	0	1	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	
+0	1	1	0	0	0	0	0	0	0	0	1	
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	1	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://thelastlineofdefense.org/about-us/
+1	0	1	0	0	1	0	0	0	0	0	0	
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.themideastbeast.com/about/
+0	1	1	0	0	1	0	0	0	0	0	0	
+0	1	1	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	1	0	0	I can't find disclaimers, but I think it's satirical 
+1	0	1	0	1	0	0	0	0	0	0	0	black lives matter content spews a lot of racist info
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	publishes both biased and fake content
+0	1	0	1	0	0	0	0	0	0	0	0	no authors, no history, no about us, unverifiable data, etc.
+0	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	1	0	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	1	0	1	0	0	0	0	0	0	ex: NY orchestrated the asian tsunami in 2008!
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	1	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	1	1	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	1	0	0	0	0	0	0	0	0	0	
+0	1	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	1	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	1	0	0	1	0	0	0	0	0	0	
+1	0	0	0	1	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	1	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/statements/2017/jan/03/universe-politics/fake-news-michigan-gop-elector-didnt-choose-suicid/
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	no longer being updated
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	no satire disclaimer, http://usadailytime.com/breaking-mexico-closes-borders-usa-citizens/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	can't find satire disclaimer, patently false
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	
+1	1	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	1	0	0	0	0	0	0	0	0	no longer being updated
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	0	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	
+1	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	1	1	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	1	0	0	0	0	0	0	0	0	0	0	doesn't appear to be currently updated
+1	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	1	basically copy/pastes parts of actual reuters stories, no authors listed or publication info
+1	0	0	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	1	I read sample articles and didn't find inaccuracy, but the language is strong/loaded
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	1	0	1	0	0	0	0	0	0	0	0	
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	1	0	0	0	0	1	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+1	0	1	0	0	0	0	0	0	1	0	0	Site notes it sometimes contains parody
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	1	0	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	copies/pastes quotes/bits from news orgs and other questionable sites
+1	0	1	1	0	0	0	0	0	0	0	0	
+1	0	0	0	0	0	1	0	0	0	0	0	
+0	1	0	1	0	0	0	0	1	0	0	0	pretty well known tabloid/fake news source
+0	0	1	0	0	1	0	0	0	0	0	0	
+1	1	0	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	1	0	0	0	
+1	0	1	0	1	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	
+0	0	1	0	0	0	0	0	0	0	0	0	9/11 = FBI coverup
+0	0	0	0	0	1	0	0	1	0	0	0	
+0	0	0	0	0	0	0	0	0	0	0	1	https://www.nytimes.com/2017/03/09/opinion/the-truth-about-the-wikileaks-cia-cache.html?_r=0
+0	0	0	0	0	0	0	0	0	0	0	1	Increasingly wikileaks is being accused of spreading misinformation
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	1	0	0	0	0	0	0	0	0	0	1	
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	1	0	0	
+1	0	0	0	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	http://www.politifact.com/punditfact/article/2017/apr/20/politifacts-guide-fake-news-websites-and-what-they/
+0	0	0	1	0	0	0	0	0	0	0	0	website down
+0	0	0	1	0	0	0	0	0	0	0	0	no longer being updated?
+0	0	0	1	0	0	0	0	0	0	0	0	no longer being updated?
+0	0	1	0	0	1	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	1	0	0	https://web.archive.org/web/20161115024211/http://wtoe5news.com/us-election/pope-francis-shocks-world-endorses-donald-trump-for-president-releases-statement/
+0	0	0	0	0	0	0	0	0	1	0	0	
+0	0	0	0	0	0	0	0	0	0	1	0	
+0	0	0	0	0	0	1	0	0	0	0	0	
+1	0	0	1	0	0	0	0	0	0	0	0	
+0	0	0	1	0	0	0	0	0	0	0	0	mostly links to rando YT videos
+0	1	0	0	0	0	0	0	0	0	0	0	
+0	1	0	0	0	1	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
+0	0	1	0	0	0	0	0	0	0	0	0	
